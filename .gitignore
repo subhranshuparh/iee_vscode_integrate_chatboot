@@ -1,0 +1,9 @@
+# Ignore Python virtual environments and libraries
+venv/
+env/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
